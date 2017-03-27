@@ -1,4 +1,3 @@
-#Java 9 with JShell
 This is the code repository for [Java 9 with JShell](https://www.packtpub.com/application-development/java-9-jshell?utm_source=github&utm_medium=repository&utm_campaign=9781787282841), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Java 9 has come out with several fantastic features including significant performance improvements, making it faster than ever. This book will teach you to organize data in an efficient way while exploiting the new features of Java 9 data structures. We will also cover classical, functional, and reactive data structures, giving you the ability to understand computational complexity, solve problems, and write efficient code.
